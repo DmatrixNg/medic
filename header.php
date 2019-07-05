@@ -135,7 +135,10 @@ jQuery(function($) {
 }
 @media (max-width: 479px)  {
 }
-/** Ultimate: Tooltipster Responsive - **/</style></head>
+/** Ultimate: Tooltipster Responsive - **/</style>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
 <body data-rsssl="1" class="home page-template-default page page-id-5 slideshow-on large-hover-icons overlay-cursor-on srcset-enabled btn-flat
 custom-btn-color custom-btn-hover-color contact-form-material semitransparent-bullets bold-icons phantom-fade
 phantom-line-decoration phantom-custom-logo-on floating-mobile-menu-icon top-header first-switch-logo-left

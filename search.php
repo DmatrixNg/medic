@@ -1,7 +1,14 @@
 <?php
 include "connection.php";
  include 'header.php'; ?>
- <div class="container">
+ <div id="main" class="sidebar-none">
+
+
+   <div class="main-gradient"></div>
+   <div class="wf-wrap">
+     <div class="wf-container-main">
+       <div id="content" class="content" role="main">
+
 
 <h2>Search</h2>
 	 <div class="form-group">
@@ -17,7 +24,6 @@ include "connection.php";
 </div>
 	 						</div>
 
-	</div>
 	<script>
 	function patient(str) {
 	    if (str == "") {
